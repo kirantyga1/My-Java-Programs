@@ -1,3 +1,4 @@
+package JavaBasicPrograms;
 
 public class Prime {
 
