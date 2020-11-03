@@ -1,3 +1,4 @@
+package JavaBasicPrograms;
 
 public class PatternPrograms {
 	public static void main(String[] args) {
