@@ -1,4 +1,5 @@
 package JavaBasicPrograms;
+
 import java.util.Scanner;
 
 public class ArmstrongNumber {
